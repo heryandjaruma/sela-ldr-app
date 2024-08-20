@@ -7,18 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		29F5D1272C74F68800B09F01 /* selaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29F5D1262C74F68800B09F01 /* selaApp.swift */; };
-		29F5D1292C74F68800B09F01 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29F5D1282C74F68800B09F01 /* ContentView.swift */; };
-		29F5D12B2C74F68800B09F01 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29F5D12A2C74F68800B09F01 /* Item.swift */; };
+		29F5D1272C74F68800B09F01 /* SelaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29F5D1262C74F68800B09F01 /* SelaApp.swift */; };
+		29F5D1292C74F68800B09F01 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29F5D1282C74F68800B09F01 /* HomeView.swift */; };
 		29F5D12D2C74F68A00B09F01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29F5D12C2C74F68A00B09F01 /* Assets.xcassets */; };
 		29F5D1302C74F68A00B09F01 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29F5D12F2C74F68A00B09F01 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		29F5D1232C74F68800B09F01 /* sela.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sela.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		29F5D1262C74F68800B09F01 /* selaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = selaApp.swift; sourceTree = "<group>"; };
-		29F5D1282C74F68800B09F01 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		29F5D12A2C74F68800B09F01 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		29F5D1262C74F68800B09F01 /* SelaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelaApp.swift; sourceTree = "<group>"; };
+		29F5D1282C74F68800B09F01 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		29F5D12C2C74F68A00B09F01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29F5D12F2C74F68A00B09F01 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -53,9 +51,8 @@
 		29F5D1252C74F68800B09F01 /* sela */ = {
 			isa = PBXGroup;
 			children = (
-				29F5D1262C74F68800B09F01 /* selaApp.swift */,
-				29F5D1282C74F68800B09F01 /* ContentView.swift */,
-				29F5D12A2C74F68800B09F01 /* Item.swift */,
+				29F5D1262C74F68800B09F01 /* SelaApp.swift */,
+				29F5D1282C74F68800B09F01 /* HomeView.swift */,
 				29F5D12C2C74F68A00B09F01 /* Assets.xcassets */,
 				29F5D12E2C74F68A00B09F01 /* Preview Content */,
 			);
@@ -140,9 +137,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				29F5D1292C74F68800B09F01 /* ContentView.swift in Sources */,
-				29F5D12B2C74F68800B09F01 /* Item.swift in Sources */,
-				29F5D1272C74F68800B09F01 /* selaApp.swift in Sources */,
+				29F5D1292C74F68800B09F01 /* HomeView.swift in Sources */,
+				29F5D1272C74F68800B09F01 /* SelaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
